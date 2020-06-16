@@ -16,3 +16,11 @@
     bottom padding is 75px
     left padding is 100px */
 }
+
+.text {
+    height: 300px;
+    border-radius: 3%;
+    font-family: monospace;
+    color: white;
+    margin: auto;
+}
