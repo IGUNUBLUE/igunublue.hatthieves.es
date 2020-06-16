@@ -18,8 +18,7 @@
 }
 
 .text {
-    height: 300px;
-    border-radius: 3%;
+    width: 300px;
     font-family: monospace;
     color: black;
     margin: auto;
