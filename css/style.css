@@ -10,8 +10,9 @@
 }
 
 .ht2 {
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 20px 0px 0px 20px;
+    /*top padding is 25px
+    right padding is 50px
+    bottom padding is 75px
+    left padding is 100px */
 }
