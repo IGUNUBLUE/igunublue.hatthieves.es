@@ -10,11 +10,8 @@
 }
 
 .ht2 {
+    /*top, right, bottom, left*/
     padding: 1px 0px 0px 10px;
-    /*top padding is 25px
-    right padding is 50px
-    bottom padding is 75px
-    left padding is 100px */
 }
 
 .text {
