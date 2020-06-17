@@ -30,3 +30,7 @@
     font-family: Noto;
     margin: 0 auto;
 }
+
+.div {
+    float: left;
+}
