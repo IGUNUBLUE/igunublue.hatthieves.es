@@ -1,16 +1,18 @@
+@font-face {
+    font-family: Noto;
+    src: url('/fonts/noto_mono/NotoMono_Regular.ttf');
+}
+
 .ht {
     width: 20rem;
     height: 100%;
     padding: 0.8rem;
     background-color: black;
-    @font-face {
-        font-family: Noto;
-        src: url('/fonts/noto_mono/NotoMono_Regular.ttf');
-    }
     color: white;
     border-radius: 15px;
     margin: 0 auto;
     font-size: 14rem;
+    font-family: Noto;
     text-align: center;
 }
 
