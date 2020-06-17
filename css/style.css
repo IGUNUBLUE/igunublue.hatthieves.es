@@ -3,6 +3,19 @@
     src: url('/fonts/noto_mono/NotoMono_Regular.ttf');
 }
 
+#father {
+    margin: auto;
+}
+
+.card {
+    float: left;
+    box-shadow: 0px 0px 30px grey;
+    border-radius: 10px;
+    padding: 1%;
+    width: 350px;
+    height: 350px;
+}
+
 .ht {
     width: 20rem;
     height: 20rem;
@@ -29,8 +42,4 @@
 .svg {
     font-family: Noto;
     margin: 0 auto;
-}
-
-.div {
-    float: left;
 }
