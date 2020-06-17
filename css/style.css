@@ -19,6 +19,7 @@
 .text {
     width: 20rem;
     font-family: Noto;
+    font-size: 16px;
     color: black;
     margin: auto;
     text-align: center;
