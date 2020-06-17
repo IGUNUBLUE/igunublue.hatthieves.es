@@ -18,7 +18,8 @@
 
 .text {
     width: 20rem;
-    font-family: monospace;
+    font-family: Noto;
     color: black;
     margin: auto;
+    text-align: center;
 }
