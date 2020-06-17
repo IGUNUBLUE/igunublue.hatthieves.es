@@ -1,2 +1,4 @@
 # codium files workspace
 *.code-workspace
+*.directory
+/vscode
