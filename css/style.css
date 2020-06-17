@@ -1,7 +1,6 @@
 @font-face {
     font-family: Noto;
     src: url('/fonts/noto_mono/NotoMono_Regular.ttf');
-    font-stretch: condensed;
 }
 
 .ht {
