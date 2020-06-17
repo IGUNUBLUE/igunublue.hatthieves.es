@@ -5,7 +5,7 @@
 
 .ht {
     width: 20rem;
-    height: 100%;
+    height: 20rem;
     padding: 0.5rem 0.8rem 0rem 0rem;
     background-color: black;
     color: white;
@@ -28,4 +28,6 @@
 
 .svg {
     font-family: Noto;
+    width: 20rem;
+    height: 20rem;
 }
