@@ -1,6 +1,7 @@
 @font-face {
     font-family: Noto;
     src: url('/fonts/noto_mono/NotoMono_Regular.ttf');
+    font-stretch: condensed;
 }
 
 .ht {
@@ -9,7 +10,7 @@
     padding: 0.8rem;
     background-color: black;
     color: white;
-    border-radius: 15px;
+    border-radius: 9px;
     margin: 0 auto;
     font-size: 14rem;
     font-family: Noto;
