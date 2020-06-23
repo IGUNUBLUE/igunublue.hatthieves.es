@@ -2,3 +2,6 @@
 *.code-workspace
 *.directory
 /vscode
+/nbproject/private/
+/docker-compose.yml
+/nbproject/
