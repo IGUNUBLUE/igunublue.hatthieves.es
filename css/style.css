@@ -24,11 +24,8 @@ body {
 }
 
 #card0, #card1, #card2, #card3, #card4, #card5, #card6
-#card7, #card8, #card9, #card10, #card11, #card12, #card13{
-    float: left;
-    width: 350px;
-    height: 400px;
-    border-radius: 10px;
+#card7, #card8, #card9, #card10, #card11, #card12, #card13 {
+    border-radius: 40px;
     margin-left: 0.9vw;
 }
 
@@ -38,12 +35,4 @@ body {
     color: white;
     font-size: 186.2px;
     text-align: center;
-}
-
-ascii_text {
-display: inline-block;
-font-size: 7px;
-text-align: center;
-font-family: 'Noto Sans', sans-serif;
-text-rendering: optimizeSpeed;
 }
